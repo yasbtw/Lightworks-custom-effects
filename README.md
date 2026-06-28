@@ -1,3 +1,3 @@
 ### Example Video
 Using the effects provided by this repository
-<video src="example.mp4" controls width="100%"></video>
+![](https://github.com/user-attachments/assets/a135ec0b-e429-4c19-8f7a-b3c112a990ac)
