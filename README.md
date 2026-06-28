@@ -1,3 +1,3 @@
 ### Example Video
 Using the effects provided by this repository
-![](https://github.com/user-attachments/assets/a135ec0b-e429-4c19-8f7a-b3c112a990ac)
+<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/246167737/614215931-a135ec0b-e429-4c19-8f7a-b3c112a990ac.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260628T044247Z&X-Amz-Expires=300&X-Amz-Signature=7e761b63f320b85ead54d748a13f7ca37efe6038d819679193b497a13f59641d&X-Amz-SignedHeaders=host&response-content-type=video%2Fmp4" controls width="100%"></video>
