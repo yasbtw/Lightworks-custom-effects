@@ -1,3 +1,3 @@
 ### Example Video
 Using the effects provided by this repository
-![example](example.mp4)
+<video src="example.mp4" controls width="100%"></video>
